@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to poor-hacker's blog
 
 You can use the [editor on GitHub](https://github.com/poor-hacker/poor-hacker.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
